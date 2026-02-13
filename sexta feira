@@ -1,0 +1,24 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real pagamento, dinheiro, troco 
+		pagamento= 5 dinheiro= 20 troco= 15
+		escreva(" Qual o valor do lanche?",pagamento)
+		leia (pagamento)
+		escreva (" Ele tem quantos de dinheiro?",dinheiro)
+		leia (dinheiro)
+		troco = 
+		escreva (" Qual será o troco?",troco)
+
+		
+
+		
+		
+		//escreva (" Qual o troco?")
+		//leia (troco)
+
+		
+	}
+}
