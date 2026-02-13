@@ -1,0 +1,18 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real conta,dinheiro,troco 
+		
+		escreva(" Qual o valor do lanche?")
+		leia(conta)
+		
+		escreva (" Ele tem quantos de dinheiro?")
+		leia(dinheiro)
+		
+		troco = dinheiro - conta
+		escreva (" Qual será o troco?",troco)
+	
+	}
+}
