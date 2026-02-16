@@ -1,0 +1,44 @@
+programa {
+  funcao inicio() {
+    cadeia nome
+    caracter sexo
+    cadeia endereco
+    cadeia cidade
+    cadeia estado
+    real cep
+    real telefone
+    real data_de_nascimento
+    inteiro rg
+    cadeia nome_do_pai
+    cadeia nome_da_mae
+    cadeia grau_de_escolaridade 
+    nome = " Gabriel Silva"
+    sexo = 'M'
+    endereco = " Estrada do Icuí, casa 69"
+    cidade = " Ananindeua"
+    estado = " Pará"
+    cep = 129000
+    telefone = 91980679585
+    data_de_nascimento 30031970
+    rg 10006961
+    nome_do_pai= " Carlos Alexandre"
+    nome_da_mae= " Paola Oliveira"
+    grau_de_escolaridade= "Ensino Medio completo"
+
+    escreva (" Seja bem-vindo de volta " ,nome )
+    leia (nome)
+    escreva (" do sexo " ,  sexo)
+    leia (sexo)
+    escreva ("da", endereco )
+    escreva ( " da cidade de", cidade)
+    escreva (" do estado do", estado)
+    escreva (" do cep:", cep)
+    escreva ( "  seu numero de telefone é:", telefone)
+    escreva (" o senhor nasceu no ano de:",data_de_nascimento)
+    escreva ("seu rg é:", rg)
+     
+
+    
+
+  }
+}
