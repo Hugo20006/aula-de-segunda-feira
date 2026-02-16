@@ -1,0 +1,11 @@
+programa {
+  funcao inicio() {
+    real valor1,valor2,valor3, media
+    escreva (" Digite 3 valor: ")
+    leia(valor1,valor2,valor3)
+
+    media = (valor1 + valor2+valor3) / 3
+    escreva ( " A media aritmética é: ",media, "n/")
+    
+  }
+}
