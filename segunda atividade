@@ -1,0 +1,12 @@
+rograma {
+  funcao inicio() {
+    cadeia nome
+
+    escreva ( "Olá ")
+    leia (nome)
+    escreva ( " Olá ,")
+    escreva (nome)
+    escreva (" seja bem vindo. Aqui vamos iniciar no universo de programação!")
+
+  }
+}
