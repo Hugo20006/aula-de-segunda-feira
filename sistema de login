@@ -36,6 +36,9 @@ programa {
     escreva ( "  seu numero de telefone é:", telefone)
     escreva (" o senhor nasceu no ano de:",data_de_nascimento)
     escreva ("seu rg é:", rg)
+    escreva(" o nome do seu pai é:", nome_do_pai)
+    escreva("o nome da mãe é: ", nome_da_mae)
+    escreva("e tens o:", grau_de_escolaridade)
      
 
     
