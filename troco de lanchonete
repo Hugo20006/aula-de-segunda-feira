@@ -1,0 +1,16 @@
+programa {
+  funcao inicio() {
+    inteiro valor, valorpago, troco,subtracao
+    escreva(" Qual o valor pago: ")
+    leia (valorpago)
+    escreva(" O valor do biju é: ")
+    leia (valor)
+    subtracao = valorpago-valor
+    escreva("subtracao: ",valorpago," - ",valor, "=", subtracao)
+    escreva(" O seu troco é: ", valorpago-valor)
+    leia(troco)
+    limpa()
+
+  }
+}
+
